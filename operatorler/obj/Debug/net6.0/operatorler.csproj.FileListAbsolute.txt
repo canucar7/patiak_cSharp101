@@ -1,0 +1,15 @@
+D:\Project\operatorler\bin\Debug\net6.0\operatorler.exe
+D:\Project\operatorler\bin\Debug\net6.0\operatorler.deps.json
+D:\Project\operatorler\bin\Debug\net6.0\operatorler.runtimeconfig.json
+D:\Project\operatorler\bin\Debug\net6.0\operatorler.dll
+D:\Project\operatorler\bin\Debug\net6.0\operatorler.pdb
+D:\Project\operatorler\obj\Debug\net6.0\operatorler.csproj.AssemblyReference.cache
+D:\Project\operatorler\obj\Debug\net6.0\operatorler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\operatorler\obj\Debug\net6.0\operatorler.AssemblyInfoInputs.cache
+D:\Project\operatorler\obj\Debug\net6.0\operatorler.AssemblyInfo.cs
+D:\Project\operatorler\obj\Debug\net6.0\operatorler.csproj.CoreCompileInputs.cache
+D:\Project\operatorler\obj\Debug\net6.0\operatorler.dll
+D:\Project\operatorler\obj\Debug\net6.0\refint\operatorler.dll
+D:\Project\operatorler\obj\Debug\net6.0\operatorler.pdb
+D:\Project\operatorler\obj\Debug\net6.0\operatorler.genruntimeconfig.cache
+D:\Project\operatorler\obj\Debug\net6.0\ref\operatorler.dll
