@@ -1,0 +1,15 @@
+D:\Project\Degiskenler\bin\Debug\net6.0\Degiskenler.exe
+D:\Project\Degiskenler\bin\Debug\net6.0\Degiskenler.deps.json
+D:\Project\Degiskenler\bin\Debug\net6.0\Degiskenler.runtimeconfig.json
+D:\Project\Degiskenler\bin\Debug\net6.0\Degiskenler.dll
+D:\Project\Degiskenler\bin\Debug\net6.0\Degiskenler.pdb
+D:\Project\Degiskenler\obj\Debug\net6.0\Degiskenler.csproj.AssemblyReference.cache
+D:\Project\Degiskenler\obj\Debug\net6.0\Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Degiskenler\obj\Debug\net6.0\Degiskenler.AssemblyInfoInputs.cache
+D:\Project\Degiskenler\obj\Debug\net6.0\Degiskenler.AssemblyInfo.cs
+D:\Project\Degiskenler\obj\Debug\net6.0\Degiskenler.csproj.CoreCompileInputs.cache
+D:\Project\Degiskenler\obj\Debug\net6.0\Degiskenler.dll
+D:\Project\Degiskenler\obj\Debug\net6.0\refint\Degiskenler.dll
+D:\Project\Degiskenler\obj\Debug\net6.0\Degiskenler.pdb
+D:\Project\Degiskenler\obj\Debug\net6.0\Degiskenler.genruntimeconfig.cache
+D:\Project\Degiskenler\obj\Debug\net6.0\ref\Degiskenler.dll
