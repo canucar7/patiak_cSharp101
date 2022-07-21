@@ -1,0 +1,15 @@
+D:\Project\donguler\bin\Debug\net6.0\donguler.exe
+D:\Project\donguler\bin\Debug\net6.0\donguler.deps.json
+D:\Project\donguler\bin\Debug\net6.0\donguler.runtimeconfig.json
+D:\Project\donguler\bin\Debug\net6.0\donguler.dll
+D:\Project\donguler\bin\Debug\net6.0\donguler.pdb
+D:\Project\donguler\obj\Debug\net6.0\donguler.csproj.AssemblyReference.cache
+D:\Project\donguler\obj\Debug\net6.0\donguler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\donguler\obj\Debug\net6.0\donguler.AssemblyInfoInputs.cache
+D:\Project\donguler\obj\Debug\net6.0\donguler.AssemblyInfo.cs
+D:\Project\donguler\obj\Debug\net6.0\donguler.csproj.CoreCompileInputs.cache
+D:\Project\donguler\obj\Debug\net6.0\donguler.dll
+D:\Project\donguler\obj\Debug\net6.0\refint\donguler.dll
+D:\Project\donguler\obj\Debug\net6.0\donguler.pdb
+D:\Project\donguler\obj\Debug\net6.0\donguler.genruntimeconfig.cache
+D:\Project\donguler\obj\Debug\net6.0\ref\donguler.dll
