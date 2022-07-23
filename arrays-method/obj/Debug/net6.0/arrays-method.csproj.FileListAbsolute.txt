@@ -1,0 +1,15 @@
+D:\Project\arrays-method\bin\Debug\net6.0\arrays-method.exe
+D:\Project\arrays-method\bin\Debug\net6.0\arrays-method.deps.json
+D:\Project\arrays-method\bin\Debug\net6.0\arrays-method.runtimeconfig.json
+D:\Project\arrays-method\bin\Debug\net6.0\arrays-method.dll
+D:\Project\arrays-method\bin\Debug\net6.0\arrays-method.pdb
+D:\Project\arrays-method\obj\Debug\net6.0\arrays-method.csproj.AssemblyReference.cache
+D:\Project\arrays-method\obj\Debug\net6.0\arrays-method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\arrays-method\obj\Debug\net6.0\arrays-method.AssemblyInfoInputs.cache
+D:\Project\arrays-method\obj\Debug\net6.0\arrays-method.AssemblyInfo.cs
+D:\Project\arrays-method\obj\Debug\net6.0\arrays-method.csproj.CoreCompileInputs.cache
+D:\Project\arrays-method\obj\Debug\net6.0\arrays-method.dll
+D:\Project\arrays-method\obj\Debug\net6.0\refint\arrays-method.dll
+D:\Project\arrays-method\obj\Debug\net6.0\arrays-method.pdb
+D:\Project\arrays-method\obj\Debug\net6.0\arrays-method.genruntimeconfig.cache
+D:\Project\arrays-method\obj\Debug\net6.0\ref\arrays-method.dll
