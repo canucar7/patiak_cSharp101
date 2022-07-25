@@ -1,0 +1,15 @@
+D:\Project\recursive-extension-method\bin\Debug\net6.0\recursive-extension-method.exe
+D:\Project\recursive-extension-method\bin\Debug\net6.0\recursive-extension-method.deps.json
+D:\Project\recursive-extension-method\bin\Debug\net6.0\recursive-extension-method.runtimeconfig.json
+D:\Project\recursive-extension-method\bin\Debug\net6.0\recursive-extension-method.dll
+D:\Project\recursive-extension-method\bin\Debug\net6.0\recursive-extension-method.pdb
+D:\Project\recursive-extension-method\obj\Debug\net6.0\recursive-extension-method.csproj.AssemblyReference.cache
+D:\Project\recursive-extension-method\obj\Debug\net6.0\recursive-extension-method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\recursive-extension-method\obj\Debug\net6.0\recursive-extension-method.AssemblyInfoInputs.cache
+D:\Project\recursive-extension-method\obj\Debug\net6.0\recursive-extension-method.AssemblyInfo.cs
+D:\Project\recursive-extension-method\obj\Debug\net6.0\recursive-extension-method.csproj.CoreCompileInputs.cache
+D:\Project\recursive-extension-method\obj\Debug\net6.0\recursive-extension-method.dll
+D:\Project\recursive-extension-method\obj\Debug\net6.0\refint\recursive-extension-method.dll
+D:\Project\recursive-extension-method\obj\Debug\net6.0\recursive-extension-method.pdb
+D:\Project\recursive-extension-method\obj\Debug\net6.0\recursive-extension-method.genruntimeconfig.cache
+D:\Project\recursive-extension-method\obj\Debug\net6.0\ref\recursive-extension-method.dll
