@@ -1,0 +1,15 @@
+D:\Project\hazır-method-string\bin\Debug\net6.0\hazır-method-string.exe
+D:\Project\hazır-method-string\bin\Debug\net6.0\hazır-method-string.deps.json
+D:\Project\hazır-method-string\bin\Debug\net6.0\hazır-method-string.runtimeconfig.json
+D:\Project\hazır-method-string\bin\Debug\net6.0\hazır-method-string.dll
+D:\Project\hazır-method-string\bin\Debug\net6.0\hazır-method-string.pdb
+D:\Project\hazır-method-string\obj\Debug\net6.0\hazır-method-string.csproj.AssemblyReference.cache
+D:\Project\hazır-method-string\obj\Debug\net6.0\hazır-method-string.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\hazır-method-string\obj\Debug\net6.0\hazır-method-string.AssemblyInfoInputs.cache
+D:\Project\hazır-method-string\obj\Debug\net6.0\hazır-method-string.AssemblyInfo.cs
+D:\Project\hazır-method-string\obj\Debug\net6.0\hazır-method-string.csproj.CoreCompileInputs.cache
+D:\Project\hazır-method-string\obj\Debug\net6.0\hazır-method-string.dll
+D:\Project\hazır-method-string\obj\Debug\net6.0\refint\hazır-method-string.dll
+D:\Project\hazır-method-string\obj\Debug\net6.0\hazır-method-string.pdb
+D:\Project\hazır-method-string\obj\Debug\net6.0\hazır-method-string.genruntimeconfig.cache
+D:\Project\hazır-method-string\obj\Debug\net6.0\ref\hazır-method-string.dll
