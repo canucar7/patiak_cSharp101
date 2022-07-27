@@ -1,0 +1,15 @@
+D:\Project\hazır-method-datetime-math\bin\Debug\net6.0\hazır-method-datetime-math.exe
+D:\Project\hazır-method-datetime-math\bin\Debug\net6.0\hazır-method-datetime-math.deps.json
+D:\Project\hazır-method-datetime-math\bin\Debug\net6.0\hazır-method-datetime-math.runtimeconfig.json
+D:\Project\hazır-method-datetime-math\bin\Debug\net6.0\hazır-method-datetime-math.dll
+D:\Project\hazır-method-datetime-math\bin\Debug\net6.0\hazır-method-datetime-math.pdb
+D:\Project\hazır-method-datetime-math\obj\Debug\net6.0\hazır-method-datetime-math.csproj.AssemblyReference.cache
+D:\Project\hazır-method-datetime-math\obj\Debug\net6.0\hazır-method-datetime-math.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\hazır-method-datetime-math\obj\Debug\net6.0\hazır-method-datetime-math.AssemblyInfoInputs.cache
+D:\Project\hazır-method-datetime-math\obj\Debug\net6.0\hazır-method-datetime-math.AssemblyInfo.cs
+D:\Project\hazır-method-datetime-math\obj\Debug\net6.0\hazır-method-datetime-math.csproj.CoreCompileInputs.cache
+D:\Project\hazır-method-datetime-math\obj\Debug\net6.0\hazır-method-datetime-math.dll
+D:\Project\hazır-method-datetime-math\obj\Debug\net6.0\refint\hazır-method-datetime-math.dll
+D:\Project\hazır-method-datetime-math\obj\Debug\net6.0\hazır-method-datetime-math.pdb
+D:\Project\hazır-method-datetime-math\obj\Debug\net6.0\hazır-method-datetime-math.genruntimeconfig.cache
+D:\Project\hazır-method-datetime-math\obj\Debug\net6.0\ref\hazır-method-datetime-math.dll

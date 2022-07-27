@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "hazır-method-datetime-math/1.0.0": {
+        "runtime": {
+          "hazır-method-datetime-math.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hazır-method-datetime-math/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
