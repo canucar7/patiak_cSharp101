@@ -1,0 +1,15 @@
+D:\Project\constructors\bin\Debug\net6.0\constructors.exe
+D:\Project\constructors\bin\Debug\net6.0\constructors.deps.json
+D:\Project\constructors\bin\Debug\net6.0\constructors.runtimeconfig.json
+D:\Project\constructors\bin\Debug\net6.0\constructors.dll
+D:\Project\constructors\bin\Debug\net6.0\constructors.pdb
+D:\Project\constructors\obj\Debug\net6.0\constructors.csproj.AssemblyReference.cache
+D:\Project\constructors\obj\Debug\net6.0\constructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\constructors\obj\Debug\net6.0\constructors.AssemblyInfoInputs.cache
+D:\Project\constructors\obj\Debug\net6.0\constructors.AssemblyInfo.cs
+D:\Project\constructors\obj\Debug\net6.0\constructors.csproj.CoreCompileInputs.cache
+D:\Project\constructors\obj\Debug\net6.0\constructors.dll
+D:\Project\constructors\obj\Debug\net6.0\refint\constructors.dll
+D:\Project\constructors\obj\Debug\net6.0\constructors.pdb
+D:\Project\constructors\obj\Debug\net6.0\constructors.genruntimeconfig.cache
+D:\Project\constructors\obj\Debug\net6.0\ref\constructors.dll
