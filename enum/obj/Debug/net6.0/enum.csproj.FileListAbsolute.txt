@@ -1,0 +1,15 @@
+D:\Project\enum\bin\Debug\net6.0\enum.exe
+D:\Project\enum\bin\Debug\net6.0\enum.deps.json
+D:\Project\enum\bin\Debug\net6.0\enum.runtimeconfig.json
+D:\Project\enum\bin\Debug\net6.0\enum.dll
+D:\Project\enum\bin\Debug\net6.0\enum.pdb
+D:\Project\enum\obj\Debug\net6.0\enum.csproj.AssemblyReference.cache
+D:\Project\enum\obj\Debug\net6.0\enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\enum\obj\Debug\net6.0\enum.AssemblyInfoInputs.cache
+D:\Project\enum\obj\Debug\net6.0\enum.AssemblyInfo.cs
+D:\Project\enum\obj\Debug\net6.0\enum.csproj.CoreCompileInputs.cache
+D:\Project\enum\obj\Debug\net6.0\enum.dll
+D:\Project\enum\obj\Debug\net6.0\refint\enum.dll
+D:\Project\enum\obj\Debug\net6.0\enum.pdb
+D:\Project\enum\obj\Debug\net6.0\enum.genruntimeconfig.cache
+D:\Project\enum\obj\Debug\net6.0\ref\enum.dll
